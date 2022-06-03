@@ -1,0 +1,7 @@
+OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total
+2,Herb Sessions,WA,9.25,Wood,155,5.15,4.75,798.25,736.25,141.94,1676.44
+3,Phil Johnson,WA,9.25,Wood,100,5.15,4.75,515.00,475.00,91.58,1081.58
+4,Joe Joe,error,0,Laminate,200,1.75,2.10,350.00,420.00,0.00,770.00
+5,Kevin Choate,TX,4.45,Carpet,150,2.25,2.10,337.50,315.00,29.04,681.54
+6,Herb Sessions,WA,9.25,Wood,155,5.15,4.75,798.25,736.25,141.94,1676.44
+7,Garrett Krohn,TX,4.45,Carpet,150,2.25,2.10,337.50,315.00,29.04,681.54

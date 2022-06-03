@@ -1,0 +1,4 @@
+OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total
+1,Kirby Cousins,TX,4.45,Carpet,150,2.25,2.10,337.50,315.00,29.04,681.54
+3,Dalvin Cook,CA,25.00,Laminate,250,1.75,2.10,437.50,525.00,240.63,1203.13
+4,Justin Jefferson,WA,9.25,Wood,1000,5.15,4.75,5150.00,4750.00,915.75,10815.75
