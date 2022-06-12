@@ -1,0 +1,23 @@
+=== KrohnNextStepsNotes ===
+
+1. Have a structure with objects for working with template messages
+2. Load in message template from JSON file
+3. Load in Guest and Company information from JSON files
+4. Support a greeting variable that will change depending on time of day
+5. Allow the user to specify which guest and which company should be used to populate the template messages
+6. Allow the user to select one of the message templates that was loaded from the JSON file, or enter in a new message template
+7. Generate the final message output that populates the fields
+
+
+message: (method generating salutation dependent on time) + name + "and welcome to " + company.
+Room: + roomnumber + "is ready for you. Enjoy your stay, let us know if you need anything"
+
+-need to code out the scanner for guest, how do I do the reservations part
+-need to figure out how to create the template, write to and read from json file
+-Write up menu
+    -ask for guest
+    -ask for company
+    -ask for template or to enter new message template
+
+Friday night
+    need to figure out how to deal with the nested objects
