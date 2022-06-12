@@ -1,0 +1,13 @@
+[{
+    "template": "%(firstName) welcome to %(company)."
+},
+{   
+    "template": "%(roomNumber) is all ready for you, %(firstName). Let us know if %(company) can do anything else for you!"
+},
+{   
+    "template": "%(salutation)! %(company) would like to welcome you, %(firstName).  We have Room %(room) ready for you!"
+}, 
+{
+    "template": "%(company) would like to welcome you, %(firstName).  Let us know if there are any issues with Room %(roomNumber)"
+}
+]
